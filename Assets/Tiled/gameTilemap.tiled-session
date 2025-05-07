@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "tiledDungen.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -12,17 +12,29 @@
         "TinyDungeon_Tilesheet.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "tiledDungen.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 36.333333333333314,
+                "y": -350.33333333333326
+            }
         }
     },
     "last.imagePath": "//claudius.science.mq.edu.au/49148923/.Desktop/Tilemap",
     "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "tiledDungen.tmx",
+        "TinyDungeon_Tilesheet.tsx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
-        "TinyDungeon_Tilesheet.tsx"
+        "TinyDungeon_Tilesheet.tsx",
+        "tiledDungen.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
